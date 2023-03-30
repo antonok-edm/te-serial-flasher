@@ -1,0 +1,13 @@
+{
+  "name": "te-serial-flasher",
+  "version": "1.0.0",
+  "description": "flash devices, in serial, over serial",
+  "main": "index.mjs",
+  "author": "Anton Lazarev <https://antonok.com>",
+  "license": "MIT",
+  "dependencies": {
+    "await-timeout": "^1.1.1",
+    "chalk": "^5.2.0",
+    "serialport": "^10.5.0"
+  }
+}
